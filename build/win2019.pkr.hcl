@@ -17,7 +17,6 @@ packer {
     }
 }
 
-
 source "vsphere-iso" "win2019" {
 
     # vCenter Credentials
