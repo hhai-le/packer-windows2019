@@ -1,5 +1,3 @@
-
-
 #vcenter_username = 
 #vcenter_password = 
 #vcenter_server = 
