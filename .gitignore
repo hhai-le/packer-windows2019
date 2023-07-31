@@ -1,5 +1,0 @@
-packer_cache/
-crash.log
-*.auto.pkrvars.hcl
-*.box
-output-*/
